@@ -8,3 +8,5 @@ In this notebook I analyzed with Python two data sets, which can be found here: 
 
 ## Goal
 My aim was to explore the energy market in Spain and try to predict the next hour's electricity price, using two ML algorithms (Random Forest Regression and Support Vector Regression).
+
+#### Niki Karanikola | Independent Project | Bennington College | Fall 2021
